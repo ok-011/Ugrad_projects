@@ -13,4 +13,5 @@ Here are my articles written during my Honors Physics lab series.
 
 ## Video of my most recent Talk
 See below for my presentation in the KITP Undergraduate Research Symposium:
+<br>
 [Undergraduate Research Symposium — Ori Khasin](https://online.kitp.ucsb.edu/online/undergrad26/khasin/)
