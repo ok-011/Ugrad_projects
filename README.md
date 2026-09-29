@@ -1,4 +1,6 @@
-# Ugrad_projects
+# Project Portfolio 
+
+## Slideshow of Projects
 
 See "[My projects](https://docs.google.com/presentation/d/1nHqgaaBe_iD0AtJ1-KC_nfLr0aLwnnry7y0swEhzNis/edit?slide=id.h6e60d209b5f2a2e5_0_0)" for a slideshow of all my projects.
 
