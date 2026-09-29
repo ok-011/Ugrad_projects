@@ -11,5 +11,6 @@ Here are my articles written during my Honors Physics lab series.
 
 [Investigation of Fluid Flow Through Capillaries](papers/capillary-flow.pdf)
 
-See below for my most recent talk in the Undergraduate Research Symposium:
+## Video of my most recent Talk
+See below for my presentation in the KITP Undergraduate Research Symposium:
 [Undergraduate Research Symposium — Ori Khasin](https://online.kitp.ucsb.edu/online/undergrad26/khasin/)
